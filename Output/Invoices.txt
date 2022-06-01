@@ -1,0 +1,996 @@
+﻿Invoice no : 938551
+Vendor Tax ID : FR322345
+Invoice Item : Various paper supplies
+Total : 250594 CAD
+Date : 2018-01-17
+________________________________________________________________________
+Invoice no : 620202
+Vendor Tax ID : IT231232
+Invoice Item : IT Support
+Total : 151463 CAD
+Date : 2018-01-22
+________________________________________________________________________
+Invoice no : 881864
+Vendor Tax ID : FR322345
+Invoice Item : Waste management services
+Total : 172270 CAD
+Date : 2018-01-11
+________________________________________________________________________
+Invoice no : 672561
+Vendor Tax ID : FR322345
+Invoice Item : Beverages and Catering
+Total : 268304 CAD
+Date : 2018-01-03
+________________________________________________________________________
+Invoice no : 642746
+Vendor Tax ID : IT145632
+Invoice Item : IT Support
+Total : 67035.6 USD
+Date : 2018-01-12
+________________________________________________________________________
+Invoice no : 179744
+Vendor Tax ID : IT145632
+Invoice Item : Professional Services
+Total : 314467 RON
+Date : 2018-01-09
+________________________________________________________________________
+Invoice no : 544548
+Vendor Tax ID : RO892123
+Invoice Item : Professional Services
+Total : 182180 CAD
+Date : 2018-01-23
+________________________________________________________________________
+Invoice no : 792737
+Vendor Tax ID : FR329083
+Invoice Item : Concierge Services
+Total : 155921 CAD
+Date : 2018-01-22
+________________________________________________________________________
+Invoice no : 771663
+Vendor Tax ID : RO892123
+Invoice Item : Professional Services
+Total : 90478.8 USD
+Date : 2018-01-24
+________________________________________________________________________
+Invoice no : 336180
+Vendor Tax ID : IT231232
+Invoice Item : Beverages and Catering
+Total : 304537 EUR
+Date : 2018-01-24
+________________________________________________________________________
+Invoice no : 218387
+Vendor Tax ID : IT231232
+Invoice Item : Concierge Services
+Total : 19495.2 USD
+Date : 2018-01-11
+________________________________________________________________________
+Invoice no : 781477
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 325778 USD
+Date : 2018-01-03
+________________________________________________________________________
+Invoice no : 685545
+Vendor Tax ID : FR329083
+Invoice Item : IT Support
+Total : 88213.2 EUR
+Date : 2018-01-20
+________________________________________________________________________
+Invoice no : 191826
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 56976 USD
+Date : 2018-01-05
+________________________________________________________________________
+Invoice no : 302626
+Vendor Tax ID : FR322345
+Invoice Item : Professional Services
+Total : 354140 RON
+Date : 2018-01-26
+________________________________________________________________________
+Invoice no : 416474
+Vendor Tax ID : RO212121
+Invoice Item : Various paper supplies
+Total : 341298 CAD
+Date : 2018-01-12
+________________________________________________________________________
+Invoice no : 876104
+Vendor Tax ID : FR065748
+Invoice Item : Various paper supplies
+Total : 251222 CAD
+Date : 2018-01-28
+________________________________________________________________________
+Invoice no : 850302
+Vendor Tax ID : IT231232
+Invoice Item : Various paper supplies
+Total : 16976.4 CAD
+Date : 2018-01-18
+________________________________________________________________________
+Invoice no : 208708
+Vendor Tax ID : IT231232
+Invoice Item : Concierge Services
+Total : 324710 EUR
+Date : 2018-01-24
+________________________________________________________________________
+Invoice no : 824488
+Vendor Tax ID : FR322345
+Invoice Item : Waste management services
+Total : 261565 CAD
+Date : 2018-02-25
+________________________________________________________________________
+Invoice no : 596023
+Vendor Tax ID : DE763212
+Invoice Item : IT Support
+Total : 194837 EUR
+Date : 2018-02-10
+________________________________________________________________________
+Invoice no : 532290
+Vendor Tax ID : RO892123
+Invoice Item : IT Support
+Total : 50892 CAD
+Date : 2018-02-15
+________________________________________________________________________
+Invoice no : 923020
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 247642 CAD
+Date : 0000-00-00
+________________________________________________________________________
+Invoice no : 927209
+Vendor Tax ID : FR329083
+Invoice Item : Concierge Services
+Total : 109118 CAD
+Date : 2018-02-18
+________________________________________________________________________
+Invoice no : 658063
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 358110 RON
+Date : 2018-02-17
+________________________________________________________________________
+Invoice no : 389824
+Vendor Tax ID : FR453231
+Invoice Item : Concierge Services
+Total : 239806 RON
+Date : 2018-02-22
+________________________________________________________________________
+Invoice no : 952317
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 262290 USD
+Date : 2018-02-09
+________________________________________________________________________
+Invoice no : 729275
+Vendor Tax ID : IT754893
+Invoice Item : Various paper supplies
+Total : 161377 RON
+Date : 2018-02-09
+________________________________________________________________________
+Invoice no : 287849
+Vendor Tax ID : DE763212
+Invoice Item : IT Support
+Total : 288220 EUR
+Date : 2018-03-08
+________________________________________________________________________
+Invoice no : 458340
+Vendor Tax ID : DE763212
+Invoice Item : Various paper supplies
+Total : 97192.8 USD
+Date : 2018-03-05
+________________________________________________________________________
+Invoice no : 417025
+Vendor Tax ID : IT754893
+Invoice Item : Various paper supplies
+Total : 247207 USD
+Date : 2018-03-16
+________________________________________________________________________
+Invoice no : 213891
+Vendor Tax ID : FR453231
+Invoice Item : Professional Services
+Total : 14284.8 RON
+Date : 2018-03-23
+________________________________________________________________________
+Invoice no : 879182
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 351545 CAD
+Date : 2018-03-14
+________________________________________________________________________
+Invoice no : 464219
+Vendor Tax ID : DE763212
+Invoice Item : Professional Services
+Total : 44500.8 USD
+Date : 2018-03-12
+________________________________________________________________________
+Invoice no : 181133
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 351481 CAD
+Date : 2018-03-09
+________________________________________________________________________
+Invoice no : 221340
+Vendor Tax ID : FR322345
+Invoice Item : Professional Services
+Total : 35149.2 CAD
+Date : 2018-03-06
+________________________________________________________________________
+Invoice no : 624292
+Vendor Tax ID : IT231232
+Invoice Item : Concierge Services
+Total : 247686 EUR
+Date : 2018-03-25
+________________________________________________________________________
+Invoice no : 405691
+Vendor Tax ID : RO892123
+Invoice Item : Concierge Services
+Total : 170896 USD
+Date : 2018-03-01
+________________________________________________________________________
+Invoice no : 837637
+Vendor Tax ID : FR065748
+Invoice Item : IT Support
+Total : 204678 EUR
+Date : 2018-03-26
+________________________________________________________________________
+Invoice no : 851964
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 328492 EUR
+Date : 2018-03-13
+________________________________________________________________________
+Invoice no : 879567
+Vendor Tax ID : IT145632
+Invoice Item : Waste management services
+Total : 111713 RON
+Date : 2018-04-11
+________________________________________________________________________
+Invoice no : 899196
+Vendor Tax ID : DE763212
+Invoice Item : Concierge Services
+Total : 221576 CAD
+Date : 2018-04-25
+________________________________________________________________________
+Invoice no : 838786
+Vendor Tax ID : RO212121
+Invoice Item : Various paper supplies
+Total : 154175 EUR
+Date : 2018-04-18
+________________________________________________________________________
+Invoice no : 178869
+Vendor Tax ID : DE763212
+Invoice Item : IT Support
+Total : 309460 CAD
+Date : 2018-04-26
+________________________________________________________________________
+Invoice no : 495839
+Vendor Tax ID : IT754893
+Invoice Item : Professional Services
+Total : 116804 CAD
+Date : 2018-04-14
+________________________________________________________________________
+Invoice no : 107985
+Vendor Tax ID : FR065748
+Invoice Item : Professional Services
+Total : 25770 RON
+Date : 2018-04-27
+________________________________________________________________________
+Invoice no : 144536
+Vendor Tax ID : IT754893
+Invoice Item : Concierge Services
+Total : 108154 RON
+Date : 2018-04-19
+________________________________________________________________________
+Invoice no : 997498
+Vendor Tax ID : IT145632
+Invoice Item : Beverages and Catering
+Total : 352253 CAD
+Date : 2018-04-01
+________________________________________________________________________
+Invoice no : 623082
+Vendor Tax ID : IT145632
+Invoice Item : Various paper supplies
+Total : 85591.2 RON
+Date : 2018-04-01
+________________________________________________________________________
+Invoice no : 835357
+Vendor Tax ID : FR322345
+Invoice Item : Professional Services
+Total : 148687 EUR
+Date : 2018-04-07
+________________________________________________________________________
+Invoice no : 929732
+Vendor Tax ID : FR329083
+Invoice Item : Beverages and Catering
+Total : 146929 RON
+Date : 2018-04-11
+________________________________________________________________________
+Invoice no : 997116
+Vendor Tax ID : FR322345
+Invoice Item : Various paper supplies
+Total : 59252.4 USD
+Date : 2018-04-18
+________________________________________________________________________
+Invoice no : 330463
+Vendor Tax ID : DE763212
+Invoice Item : Waste management services
+Total : 312872 CAD
+Date : 2018-05-11
+________________________________________________________________________
+Invoice no : 923059
+Vendor Tax ID : DE763212
+Invoice Item : Various paper supplies
+Total : 340849 CAD
+Date : 2018-05-13
+________________________________________________________________________
+Invoice no : 622833
+Vendor Tax ID : IT231232
+Invoice Item : IT Support
+Total : 86680.8 USD
+Date : 2018-05-02
+________________________________________________________________________
+Invoice no : 976892
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 335684 CAD
+Date : 2018-05-03
+________________________________________________________________________
+Invoice no : 125636
+Vendor Tax ID : IT145632
+Invoice Item : Concierge Services
+Total : 317922 RON
+Date : 2018-05-21
+________________________________________________________________________
+Invoice no : 675439
+Vendor Tax ID : DE763212
+Invoice Item : Professional Services
+Total : 64449.6 USD
+Date : 2018-05-19
+________________________________________________________________________
+Invoice no : 139964
+Vendor Tax ID : IT145632
+Invoice Item : Waste management services
+Total : 51801.6 USD
+Date : 2018-05-03
+________________________________________________________________________
+Invoice no : 612426
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 338573 EUR
+Date : 2018-05-23
+________________________________________________________________________
+Invoice no : 538905
+Vendor Tax ID : DE763212
+Invoice Item : IT Support
+Total : 329173 USD
+Date : 0000-00-00
+________________________________________________________________________
+Invoice no : 553730
+Vendor Tax ID : FR453231
+Invoice Item : Professional Services
+Total : 175714 EUR
+Date : 2018-05-09
+________________________________________________________________________
+Invoice no : 842697
+Vendor Tax ID : IT145632
+Invoice Item : Beverages and Catering
+Total : 301518 USD
+Date : 2018-05-19
+________________________________________________________________________
+Invoice no : 891860
+Vendor Tax ID : FR453231
+Invoice Item : Beverages and Catering
+Total : 172324 USD
+Date : 2018-05-11
+________________________________________________________________________
+Invoice no : 755158
+Vendor Tax ID : FR065748
+Invoice Item : Beverages and Catering
+Total : 176702 CAD
+Date : 2018-05-17
+________________________________________________________________________
+Invoice no : 342541
+Vendor Tax ID : IT231232
+Invoice Item : Professional Services
+Total : 266204 CAD
+Date : 2018-05-27
+________________________________________________________________________
+Invoice no : 774664
+Vendor Tax ID : IT231232
+Invoice Item : Beverages and Catering
+Total : 100728 RON
+Date : 2018-05-05
+________________________________________________________________________
+Invoice no : 516661
+Vendor Tax ID : IT145632
+Invoice Item : IT Support
+Total : 76035.6 USD
+Date : 2018-06-11
+________________________________________________________________________
+Invoice no : 133521
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 65023.2 USD
+Date : 2018-06-12
+________________________________________________________________________
+Invoice no : 450617
+Vendor Tax ID : IT231232
+Invoice Item : Beverages and Catering
+Total : 188336 CAD
+Date : 2018-06-25
+________________________________________________________________________
+Invoice no : 304105
+Vendor Tax ID : FR329083
+Invoice Item : IT Support
+Total : 178438 CAD
+Date : 2018-06-19
+________________________________________________________________________
+Invoice no : 445992
+Vendor Tax ID : IT231232
+Invoice Item : Waste management services
+Total : 156053 EUR
+Date : 2018-06-05
+________________________________________________________________________
+Invoice no : 640865
+Vendor Tax ID : FR329083
+Invoice Item : Professional Services
+Total : 266125 USD
+Date : 2018-06-05
+________________________________________________________________________
+Invoice no : 441173
+Vendor Tax ID : FR322345
+Invoice Item : Waste management services
+Total : 213631 USD
+Date : 2018-06-01
+________________________________________________________________________
+Invoice no : 631707
+Vendor Tax ID : RO892123
+Invoice Item : Concierge Services
+Total : 115565 EUR
+Date : 2018-06-28
+________________________________________________________________________
+Invoice no : 117850
+Vendor Tax ID : RO212121
+Invoice Item : Concierge Services
+Total : 80908.8 USD
+Date : 0000-00-00
+________________________________________________________________________
+Invoice no : 574761
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 199519 CAD
+Date : 2018-06-02
+________________________________________________________________________
+Invoice no : 861239
+Vendor Tax ID : FR329083
+Invoice Item : Various paper supplies
+Total : 48340.8 USD
+Date : 2018-06-06
+________________________________________________________________________
+Invoice no : 539593
+Vendor Tax ID : FR065748
+Invoice Item : Waste management services
+Total : 23228.4 EUR
+Date : 2018-06-03
+________________________________________________________________________
+Invoice no : 832759
+Vendor Tax ID : DE767565
+Invoice Item : Professional Services
+Total : 151578 CAD
+Date : 2018-06-05
+________________________________________________________________________
+Invoice no : 916521
+Vendor Tax ID : FR453231
+Invoice Item : Waste management services
+Total : 291959 CAD
+Date : 2018-06-24
+________________________________________________________________________
+Invoice no : 417300
+Vendor Tax ID : DE767565
+Invoice Item : Concierge Services
+Total : 310004 RON
+Date : 2018-06-06
+________________________________________________________________________
+Invoice no : 850113
+Vendor Tax ID : FR065748
+Invoice Item : Concierge Services
+Total : 239268 RON
+Date : 2018-06-13
+________________________________________________________________________
+Invoice no : 724981
+Vendor Tax ID : DE767565
+Invoice Item : Beverages and Catering
+Total : 33880.8 RON
+Date : 2018-07-01
+________________________________________________________________________
+Invoice no : 191202
+Vendor Tax ID : DE763212
+Invoice Item : Beverages and Catering
+Total : 5479.2 CAD
+Date : 2018-07-24
+________________________________________________________________________
+Invoice no : 828886
+Vendor Tax ID : FR065748
+Invoice Item : IT Support
+Total : 321414 EUR
+Date : 2018-07-07
+________________________________________________________________________
+Invoice no : 545686
+Vendor Tax ID : IT145632
+Invoice Item : Beverages and Catering
+Total : 213211 EUR
+Date : 2018-07-16
+________________________________________________________________________
+Invoice no : 297130
+Vendor Tax ID : FR453231
+Invoice Item : IT Support
+Total : 119094 RON
+Date : 2018-07-18
+________________________________________________________________________
+Invoice no : 623766
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 234438 RON
+Date : 2018-07-05
+________________________________________________________________________
+Invoice no : 938904
+Vendor Tax ID : IT754893
+Invoice Item : Waste management services
+Total : 339353 EUR
+Date : 2018-07-14
+________________________________________________________________________
+Invoice no : 440844
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 266927 EUR
+Date : 2018-07-01
+________________________________________________________________________
+Invoice no : 130425
+Vendor Tax ID : FR329083
+Invoice Item : IT Support
+Total : 315275 EUR
+Date : 2018-07-13
+________________________________________________________________________
+Invoice no : 100141
+Vendor Tax ID : FR065748
+Invoice Item : Waste management services
+Total : 105658 CAD
+Date : 2018-07-09
+________________________________________________________________________
+Invoice no : 642978
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 263728 EUR
+Date : 2018-08-12
+________________________________________________________________________
+Invoice no : 749045
+Vendor Tax ID : FR453231
+Invoice Item : IT Support
+Total : 312364 EUR
+Date : 2018-08-18
+________________________________________________________________________
+Invoice no : 156842
+Vendor Tax ID : IT754893
+Invoice Item : IT Support
+Total : 164940 RON
+Date : 2018-08-03
+________________________________________________________________________
+Invoice no : 915790
+Vendor Tax ID : IT754893
+Invoice Item : Waste management services
+Total : 186907 RON
+Date : 2018-08-15
+________________________________________________________________________
+Invoice no : 405589
+Vendor Tax ID : FR065748
+Invoice Item : Various paper supplies
+Total : 156505 RON
+Date : 2018-08-21
+________________________________________________________________________
+Invoice no : 851444
+Vendor Tax ID : RO212121
+Invoice Item : Various paper supplies
+Total : 318769 USD
+Date : 2018-08-13
+________________________________________________________________________
+Invoice no : 327489
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 336610 CAD
+Date : 2018-08-10
+________________________________________________________________________
+Invoice no : 805457
+Vendor Tax ID : FR322345
+Invoice Item : Beverages and Catering
+Total : 141568 CAD
+Date : 2018-08-18
+________________________________________________________________________
+Invoice no : 783084
+Vendor Tax ID : IT145632
+Invoice Item : Waste management services
+Total : 242214 CAD
+Date : 2018-08-06
+________________________________________________________________________
+Invoice no : 972382
+Vendor Tax ID : FR329083
+Invoice Item : IT Support
+Total : 209728 CAD
+Date : 2018-08-20
+________________________________________________________________________
+Invoice no : 142753
+Vendor Tax ID : IT231232
+Invoice Item : IT Support
+Total : 306286 CAD
+Date : 2018-08-21
+________________________________________________________________________
+Invoice no : 361137
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 179098 RON
+Date : 0000-00-00
+________________________________________________________________________
+Invoice no : 473239
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 291016 CAD
+Date : 2018-08-16
+________________________________________________________________________
+Invoice no : 391823
+Vendor Tax ID : IT145632
+Invoice Item : Various paper supplies
+Total : 12850.8 EUR
+Date : 2018-08-25
+________________________________________________________________________
+Invoice no : 633377
+Vendor Tax ID : FR065748
+Invoice Item : IT Support
+Total : 331649 RON
+Date : 2018-08-24
+________________________________________________________________________
+Invoice no : 877555
+Vendor Tax ID : IT231232
+Invoice Item : Beverages and Catering
+Total : 60608.4 EUR
+Date : 2018-09-02
+________________________________________________________________________
+Invoice no : 390038
+Vendor Tax ID : IT231232
+Invoice Item : IT Support
+Total : 191293 CAD
+Date : 2018-09-14
+________________________________________________________________________
+Invoice no : 715630
+Vendor Tax ID : FR329083
+Invoice Item : Professional Services
+Total : 23502 CAD
+Date : 2018-09-16
+________________________________________________________________________
+Invoice no : 158974
+Vendor Tax ID : DE763212
+Invoice Item : Various paper supplies
+Total : 333032 CAD
+Date : 2018-09-08
+________________________________________________________________________
+Invoice no : 307326
+Vendor Tax ID : FR322345
+Invoice Item : Professional Services
+Total : 234859 CAD
+Date : 2018-09-22
+________________________________________________________________________
+Invoice no : 480567
+Vendor Tax ID : FR322345
+Invoice Item : Various paper supplies
+Total : 245698 EUR
+Date : 2018-09-13
+________________________________________________________________________
+Invoice no : 307582
+Vendor Tax ID : IT754893
+Invoice Item : Professional Services
+Total : 124084 EUR
+Date : 2018-09-18
+________________________________________________________________________
+Invoice no : 511150
+Vendor Tax ID : RO892123
+Invoice Item : Various paper supplies
+Total : 298327 CAD
+Date : 2018-09-17
+________________________________________________________________________
+Invoice no : 264496
+Vendor Tax ID : FR453231
+Invoice Item : Waste management services
+Total : 171048 USD
+Date : 2018-09-25
+________________________________________________________________________
+Invoice no : 778853
+Vendor Tax ID : DE767565
+Invoice Item : Concierge Services
+Total : 193795 CAD
+Date : 2018-09-12
+________________________________________________________________________
+Invoice no : 380507
+Vendor Tax ID : IT754893
+Invoice Item : Beverages and Catering
+Total : 293561 RON
+Date : 2018-09-03
+________________________________________________________________________
+Invoice no : 575139
+Vendor Tax ID : IT231232
+Invoice Item : Beverages and Catering
+Total : 109678 CAD
+Date : 2018-09-21
+________________________________________________________________________
+Invoice no : 509264
+Vendor Tax ID : IT145632
+Invoice Item : IT Support
+Total : 279224 USD
+Date : 2018-09-20
+________________________________________________________________________
+Invoice no : 732128
+Vendor Tax ID : DE763212
+Invoice Item : Professional Services
+Total : 290576 USD
+Date : 2018-10-02
+________________________________________________________________________
+Invoice no : 531506
+Vendor Tax ID : IT145632
+Invoice Item : IT Support
+Total : 111826 USD
+Date : 2018-10-08
+________________________________________________________________________
+Invoice no : 167359
+Vendor Tax ID : RO892123
+Invoice Item : IT Support
+Total : 207424 RON
+Date : 2018-10-03
+________________________________________________________________________
+Invoice no : 190055
+Vendor Tax ID : FR065748
+Invoice Item : Various paper supplies
+Total : 273251 CAD
+Date : 2018-10-11
+________________________________________________________________________
+Invoice no : 256246
+Vendor Tax ID : FR329083
+Invoice Item : Professional Services
+Total : 129946 RON
+Date : 2018-10-02
+________________________________________________________________________
+Invoice no : 563465
+Vendor Tax ID : RO892123
+Invoice Item : Beverages and Catering
+Total : 143896 CAD
+Date : 2018-10-21
+________________________________________________________________________
+Invoice no : 669925
+Vendor Tax ID : FR329083
+Invoice Item : Various paper supplies
+Total : 154144 RON
+Date : 2018-10-01
+________________________________________________________________________
+Invoice no : 201949
+Vendor Tax ID : DE767565
+Invoice Item : Professional Services
+Total : 238969 EUR
+Date : 2018-10-12
+________________________________________________________________________
+Invoice no : 944802
+Vendor Tax ID : FR322345
+Invoice Item : Concierge Services
+Total : 335764 EUR
+Date : 2018-10-05
+________________________________________________________________________
+Invoice no : 545600
+Vendor Tax ID : IT145632
+Invoice Item : Professional Services
+Total : 180461 EUR
+Date : 2018-10-15
+________________________________________________________________________
+Invoice no : 270372
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 263580 USD
+Date : 2018-11-03
+________________________________________________________________________
+Invoice no : 601217
+Vendor Tax ID : IT145632
+Invoice Item : Concierge Services
+Total : 128206 RON
+Date : 2018-11-12
+________________________________________________________________________
+Invoice no : 550293
+Vendor Tax ID : DE767565
+Invoice Item : Concierge Services
+Total : 354906 USD
+Date : 2018-11-21
+________________________________________________________________________
+Invoice no : 544738
+Vendor Tax ID : DE763212
+Invoice Item : IT Support
+Total : 355715 RON
+Date : 2018-11-22
+________________________________________________________________________
+Invoice no : 167675
+Vendor Tax ID : FR453231
+Invoice Item : Professional Services
+Total : 279906 CAD
+Date : 2018-11-12
+________________________________________________________________________
+Invoice no : 244788
+Vendor Tax ID : FR453231
+Invoice Item : Professional Services
+Total : 51326.4 CAD
+Date : 2018-11-08
+________________________________________________________________________
+Invoice no : 959131
+Vendor Tax ID : FR322345
+Invoice Item : Concierge Services
+Total : 164806 EUR
+Date : 2018-11-15
+________________________________________________________________________
+Invoice no : 287435
+Vendor Tax ID : FR322345
+Invoice Item : Waste management services
+Total : 345317 EUR
+Date : 2018-11-13
+________________________________________________________________________
+Invoice no : 652499
+Vendor Tax ID : RO892123
+Invoice Item : IT Support
+Total : 354384 USD
+Date : 2018-11-02
+________________________________________________________________________
+Invoice no : 527025
+Vendor Tax ID : IT754893
+Invoice Item : Beverages and Catering
+Total : 255973 CAD
+Date : 2018-11-17
+________________________________________________________________________
+Invoice no : 788620
+Vendor Tax ID : IT754893
+Invoice Item : Various paper supplies
+Total : 104197 CAD
+Date : 2018-11-26
+________________________________________________________________________
+Invoice no : 156076
+Vendor Tax ID : DE767565
+Invoice Item : Concierge Services
+Total : 281981 RON
+Date : 2018-11-27
+________________________________________________________________________
+Invoice no : 860722
+Vendor Tax ID : DE763212
+Invoice Item : Waste management services
+Total : 221305 CAD
+Date : 2018-11-13
+________________________________________________________________________
+Invoice no : 484447
+Vendor Tax ID : RO892123
+Invoice Item : Concierge Services
+Total : 124181 EUR
+Date : 2018-11-08
+________________________________________________________________________
+Invoice no : 633133
+Vendor Tax ID : IT231232
+Invoice Item : Concierge Services
+Total : 291116 USD
+Date : 2018-11-24
+________________________________________________________________________
+Invoice no : 823896
+Vendor Tax ID : RO212121
+Invoice Item : IT Support
+Total : 280666 USD
+Date : 2018-11-01
+________________________________________________________________________
+Invoice no : 405654
+Vendor Tax ID : FR329083
+Invoice Item : Professional Services
+Total : 308126 EUR
+Date : 2018-11-18
+________________________________________________________________________
+Invoice no : 574148
+Vendor Tax ID : IT754893
+Invoice Item : Beverages and Catering
+Total : 221309 EUR
+Date : 2018-11-17
+________________________________________________________________________
+Invoice no : 130802
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 218682 CAD
+Date : 2018-12-18
+________________________________________________________________________
+Invoice no : 807080
+Vendor Tax ID : FR329083
+Invoice Item : Various paper supplies
+Total : 243522 CAD
+Date : 2018-12-26
+________________________________________________________________________
+Invoice no : 718956
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 319650 USD
+Date : 2018-12-21
+________________________________________________________________________
+Invoice no : 212545
+Vendor Tax ID : RO212121
+Invoice Item : Waste management services
+Total : 330270 CAD
+Date : 2018-12-16
+________________________________________________________________________
+Invoice no : 583219
+Vendor Tax ID : FR065748
+Invoice Item : Beverages and Catering
+Total : 200348 RON
+Date : 2018-12-14
+________________________________________________________________________
+Invoice no : 956142
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 137012 USD
+Date : 2018-12-02
+________________________________________________________________________
+Invoice no : 115939
+Vendor Tax ID : IT145632
+Invoice Item : Concierge Services
+Total : 126163 CAD
+Date : 2018-12-02
+________________________________________________________________________
+Invoice no : 529362
+Vendor Tax ID : FR453231
+Invoice Item : Beverages and Catering
+Total : 181178 EUR
+Date : 2018-12-12
+________________________________________________________________________
+Invoice no : 472475
+Vendor Tax ID : IT231232
+Invoice Item : IT Support
+Total : 19036.8 USD
+Date : 2018-12-16
+________________________________________________________________________
+Invoice no : 453569
+Vendor Tax ID : FR322345
+Invoice Item : Beverages and Catering
+Total : 352416 EUR
+Date : 2018-12-10
+________________________________________________________________________
+Invoice no : 191937
+Vendor Tax ID : DE767565
+Invoice Item : Beverages and Catering
+Total : 101524 USD
+Date : 2018-12-25
+________________________________________________________________________
+Invoice no : 286200
+Vendor Tax ID : FR329083
+Invoice Item : Waste management services
+Total : 114979 RON
+Date : 2018-12-12
+________________________________________________________________________
+Invoice no : 273055
+Vendor Tax ID : FR329083
+Invoice Item : Beverages and Catering
+Total : 76315.2 EUR
+Date : 2018-12-15
+________________________________________________________________________
+Invoice no : 413905
+Vendor Tax ID : IT754893
+Invoice Item : Beverages and Catering
+Total : 150992 EUR
+Date : 2018-12-27
+________________________________________________________________________
+Invoice no : 440070
+Vendor Tax ID : RO212121
+Invoice Item : Beverages and Catering
+Total : 302448 USD
+Date : 2018-12-19
+________________________________________________________________________
+Invoice no : 542826
+Vendor Tax ID : DE767565
+Invoice Item : Various paper supplies
+Total : 169511 EUR
+Date : 2018-12-23
+________________________________________________________________________
+Invoice no : 975948
+Vendor Tax ID : FR065748
+Invoice Item : Beverages and Catering
+Total : 357517 CAD
+Date : 2018-12-26
+________________________________________________________________________
